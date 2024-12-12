@@ -7,23 +7,23 @@
 }
 
 .normal {
-    background-color: #a6a877;
+    background-color: #f6ff00;
 }
 
 .grass {
-    background-color: #77c850;
+    background-color: #0026ff;
 }
 
 .fire {
-    background-color: #ee7f30;
+    background-color: #15ff0041;
 }
 
 .water {
-    background-color: #678fee;
+    background-color: #004cff;
 }
 
 .electric {
-    background-color: #f7cf2e;
+    background-color: #ff00aa;
 }
 
 .ice {
@@ -59,23 +59,23 @@
 }
 
 .bug {
-    background-color: #a8b720;
+    background-color: #ffe600;
 }
 
 .ghost {
-    background-color: #6e5896;
+    background-color: #00ffd5;
 }
 
 .steel {
-    background-color: #b9b7cf;
+    background-color: #8c00ff;
 }
 
 .dragon {
-    background-color: #6f38f6;
+    background-color: #007a7a;
 }
 
 .fairy {
-    background-color: #f9aec7;
+    background-color: #41ff6a;
 }
 
 .pokemon {
